@@ -71,7 +71,7 @@ You can search for movies or tvshows through the search bar.
 
 
 ```bash
-  https://github.com/sinAbhishek/Movie.git
+  git clone https://github.com/sinAbhishek/Movie.git
 ```
 
 Go to the root directory
