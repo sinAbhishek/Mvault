@@ -34,7 +34,7 @@ Movie page
 
 Show details
 # Features
-<h4>Login/register</h4>
+<h3>Login/register</h3>
 
 
 
@@ -44,26 +44,30 @@ Show details
 
 
 
-<h4>Add reviews</h4>
+<h3>Add reviews</h3>
 <img src="https://github.com/sinAbhishek/Movie/assets/127949220/47e96e5c-2afe-4f63-903b-5681a438a883" height="300px"/>
 <img src="https://github.com/sinAbhishek/Movie/assets/127949220/08f3b958-44ee-4d2e-a598-f83d92788f03" height="300px"/>
 
 
 
-<h4>Add movies to your watchlist</h4>
+<h3>Add movies to your watchlist</h3>
 
 
 
 <img src="https://github.com/sinAbhishek/Movie/assets/127949220/4764e93b-76fa-4501-aa45-6be973ea24a5" width="900px" height="400px"/>
 
-<h4>Search for movies/tvshows</h4>
+<h3>Search for movies/tvshows</h3>
 You can search for movies or tvshows through the search bar.
 
 <img src="https://github.com/sinAbhishek/Movie/assets/127949220/a3588fdb-bbd5-4429-bd9b-b915e570c88d" width="900px" height="300px"/>
+<h3>Watch trailers and clips </h3>
+
+<img src="https://github.com/sinAbhishek/Movie/assets/127949220/ce5130b5-79fc-44f3-9752-a30b98eb879a" width="900px" height="300px"/>
 
 
 
 # RunLocally
+
 
 
 ```bash
