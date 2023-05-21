@@ -1,0 +1,65 @@
+.overflow {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(43, 41, 41, 0.693);
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.reviewloader {
+  margin: 1rem auto;
+}
+.modal {
+  position: relative;
+  background-color: rgb(20, 19, 19);
+  width: 50%;
+  min-width: 450px;
+  height: 50%;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.modal > h4,
+p {
+  display: inline;
+}
+
+.reviewtxt {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  height: 50%;
+  padding: 1rem;
+}
+.starcontainer {
+  display: flex;
+  margin: 0 auto;
+}
+.icon-fill {
+  fill: #f5dd0b;
+}
+.icon-blank {
+  fill: none;
+}
+.postbtn {
+  margin: 1rem auto 0rem;
+  width: 30%;
+  border-radius: 0.5rem;
+  height: 40px;
+  background-color: rgb(138, 236, 33);
+  font-size: 1rem;
+}
+.closerevBtn {
+  position: absolute;
+  right: 2px;
+  top: 2px;
+}
+@media only screen and (max-width: 600px) {
+  .modal {
+    width: 90%;
+    min-width: 330px;
+  }
+}

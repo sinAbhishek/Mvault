@@ -1,0 +1,9 @@
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+}
+.movie-cont {
+  width: 100%;
+}

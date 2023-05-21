@@ -1,0 +1,7 @@
+.containe {
+  display: flex;
+  flex-wrap: wrap;
+}
+.page-cot {
+  display: flex;
+}

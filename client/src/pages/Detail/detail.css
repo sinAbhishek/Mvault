@@ -1,0 +1,277 @@
+.detail-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 3.5rem;
+}
+.back-cover {
+  background-size: cover;
+  background-position: top;
+  width: 100vw;
+  height: 70%;
+  opacity: 70%;
+  position: absolute;
+  z-index: -1;
+}
+
+.detail-wrapper {
+  width: 95%;
+}
+.trailer-det {
+  height: 100%;
+}
+.t1 {
+  font-size: 2rem;
+  font-family: "Oswald", sans-serif;
+}
+h3,
+p {
+  margin: 0;
+}
+.img-d1 {
+  display: flex;
+  height: 100%;
+}
+.in {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.castimg {
+  width: 70%;
+  height: 70%;
+  margin: 0 auto;
+  border-radius: 100%;
+  background-size: cover;
+}
+.castwrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.castdet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  width: 10rem;
+  height: 10rem;
+}
+.btn-det {
+  text-align: center;
+  height: 2rem;
+  background-color: rgb(127, 231, 59);
+  border-radius: 0.5rem;
+  border-style: none;
+  width: 20%;
+  min-width: 200px !important;
+  display: block;
+}
+.btnReview {
+  text-align: center;
+  height: 2rem;
+  font-family: "Oswald", sans-serif;
+  background-color: rgb(239, 232, 28);
+  border-radius: 0.5rem;
+  border-style: none;
+  width: 20%;
+  min-width: 200px !important;
+  display: block;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+.btnReview:hover {
+  cursor: pointer;
+}
+.in:hover {
+  cursor: pointer;
+}
+
+.image {
+  width: 20%;
+  height: 100%;
+  max-height: 370px;
+}
+.dsc {
+  width: 80%;
+  margin-left: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.img1 {
+  width: 100%;
+  height: 100%;
+  max-height: 370px;
+  border-radius: 1rem;
+}
+.genre-wrap12 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.overview-det {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 1rem;
+  display: block;
+}
+.overview-det2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: 200;
+}
+.rating {
+  display: flex;
+}
+.overview-h1 {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+.det-p {
+  border-radius: 1rem;
+  border: 1px solid;
+  padding: 0 0.4rem;
+  background-color: rgba(0, 0, 0, 0.786);
+  font-family: "Titillium Web", sans-serif;
+}
+.co {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.detail-video {
+  width: 100%;
+  height: 60%;
+}
+.bg-img {
+  width: 100vw;
+  height: 100vh;
+  background-size: auto;
+  position: absolute;
+  z-index: -1;
+  opacity: 70%;
+}
+.tandclip {
+  width: 100%;
+  height: 100%;
+}
+.trandclip {
+  width: 100%;
+  height: 100%;
+}
+.modal-mui {
+  width: 60% !important;
+  height: 40vw;
+  padding: 0px !important;
+  box-shadow: rgba(10, 96, 245, 0.99) 0px 50px 100px -20px,
+    rgba(4, 71, 255, 0.881) 0px 30px 60px -30px,
+    rgba(132, 115, 216, 0.755) 0px -2px 6px 0px inset !important;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide {
+  width: 100%;
+  height: 100%;
+}
+.review-cont {
+  width: 100%;
+  height: 100%;
+}
+.author-det {
+  width: 30%;
+  height: 30%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.postReview {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.author-img {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 100%;
+  background-size: contain;
+}
+.det-buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.trailer-btn {
+  width: 20% !important;
+  background-color: rgb(246, 9, 9) !important;
+  color: aliceblue !important;
+  min-width: 200px !important;
+  margin-bottom: 0.5rem !important;
+  margin-top: 0.5rem !important;
+}
+.display {
+  display: none;
+}
+.det-subhead {
+  font-family: "Bebas Neue";
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+.subTitle {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  position: relative;
+  width: max-content;
+}
+.subTitle:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+.cast-char {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+@media only screen and (max-width: 900px) {
+  .image {
+    width: 30%;
+  }
+  .modal-mui {
+    width: 80% !important;
+    height: 50vw;
+    padding: 0px !important;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .image {
+    width: 50%;
+  }
+  .modal-mui {
+    width: 100% !important;
+    height: 60vw;
+    padding: 4px !important;
+  }
+  .det-subhead {
+    font-size: 1.8rem;
+  }
+ 
+}
+@media only screen and (max-width: 450px) {
+  .display {
+    display: contents;
+  }
+  .def-display {
+    display: none;
+  }
+  .t1 {
+    font-size: 1.3rem;
+  }
+}

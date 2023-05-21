@@ -1,0 +1,27 @@
+.cont {
+  position: relative;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-top: 150%;
+  border-radius: 1rem;
+}
+.cont:hover {
+  transform: scale(1.155);
+  transition: 0.5s;
+  z-index: 1;
+  box-shadow: rgba(246, 17, 17, 0.99) 0px 50px 100px -20px,
+    rgba(183, 7, 7, 0.995) 0px 30px 60px -30px,
+    rgba(244, 29, 29, 0.973) 0px -2px 6px 0px inset;
+}
+.pos-12 {
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-family: "Play", sans-serif;
+  font-weight: bold;
+}
+@media only screen and (max-width: 400px) {
+  .pos-12 {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,48 @@
+.cast-main {
+  width: 20%;
+  height: 10%;
+  display: flex;
+  margin: 1rem;
+}
+.castcrew {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 3rem;
+}
+.castcrew-img {
+  width: 5rem;
+  height: 5rem;
+  min-width: 5rem;
+  min-height: 5rem;
+  border-radius: 100%;
+  background-size: contain;
+}
+.char-det {
+  margin-left: 0.3rem;
+
+  word-wrap: break-word;
+  display: flex;
+  flex-direction: column;
+}
+.cast-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+.crew-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+.cast-tit,
+.crew-tit {
+  font-size: 2rem;
+}
+@media only screen and (max-width: 750px) {
+  .cast-main {
+    width: 40%;
+  }
+}

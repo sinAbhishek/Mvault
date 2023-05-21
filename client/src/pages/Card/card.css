@@ -1,0 +1,81 @@
+.card-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cardwrapper {
+  width: 16%;
+  margin: 1rem;
+  min-width: 160px;
+  max-width: 255px;
+}
+.Noresult {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cardtitle {
+  font-family: "Play", sans-serif;
+}
+.card-img {
+  padding-top: 150%;
+  background-size: cover;
+  border-radius: 2rem;
+}
+.card-img:hover {
+  transform: scale(1.175);
+  transition: 0.5s;
+  box-shadow: rgba(10, 96, 245, 0.99) 0px 50px 100px -20px,
+    rgba(4, 71, 255, 0.881) 0px 30px 60px -30px,
+    rgba(132, 115, 216, 0.755) 0px -2px 6px 0px inset;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  top: 3rem;
+}
+.pageswitch {
+  display: flex;
+  justify-content: center;
+}
+.left-btn,
+.right-btn {
+  font-size: 3rem !important;
+  margin: 0 1rem;
+}
+.left-btn,
+.right-btn:hover {
+  cursor: pointer;
+}
+.disable {
+  opacity: 50%;
+}
+@media only screen and (max-width: 785px) {
+  .cardwrapper {
+    width: 20%;
+    margin: 0.5rem;
+    min-width: 140px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .cardwrapper {
+    width: 30%;
+    margin: 0.2rem;
+    min-width: 100px;
+  }
+  .card-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .cardtitle {
+    font-size: 1rem;
+  }
+}
