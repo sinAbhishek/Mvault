@@ -30,7 +30,7 @@ Movie page
 
 
 <img src="https://github.com/sinAbhishek/Movie/assets/127949220/7abcb850-065d-4971-866d-4fc9f67e55f9"  height="400px"/>
-![loginh]()
+
 
 Show details
 # Features
