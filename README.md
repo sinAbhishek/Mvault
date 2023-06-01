@@ -13,7 +13,7 @@ Database: Mongodb
 
 
 # Live  project
-https://moviematic.netlify.app
+https://mvault.netlify.app
 
 
 # Preview
