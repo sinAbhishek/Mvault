@@ -1,6 +1,6 @@
 # MVault
 
-Moviematic is a full stack MERN app where users can search for tvshow/movies add them to their watchlist rate them and give review and can also get full details about the show or movie.
+Mvault is a full stack MERN app where users can search for tvshow/movies add them to their watchlist rate them and give review and can also get full details about the show or movie.
 
 
 # Technologies Used
