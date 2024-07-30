@@ -16,56 +16,6 @@ Database: Mongodb
 https://mvault.netlify.app
 
 
-# Preview
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/c055b0fd-a663-41dd-a119-9221ec420a31"  height="350px" />
-
- Home page
-
-
-
-
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/07697660-72cb-48c2-9be7-dee8510cc24a"  height="350px"/>
-
-Movie page
-
-
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/7abcb850-065d-4971-866d-4fc9f67e55f9"  height="400px"/>
-
-
-Show details
-# Features
-<h3>Login/register</h3>
-
-
-
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/11c98edb-2fd8-4d72-8f26-fb0f40767f21" width="400px" height="300px"/>
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/239458ec-90c2-4e63-b0c1-b29498f918dd" width="400px" height="300px"/>
-
-
-
-
-<h3>Add reviews</h3>
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/47e96e5c-2afe-4f63-903b-5681a438a883" height="300px"/>
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/08f3b958-44ee-4d2e-a598-f83d92788f03" height="300px"/>
-
-
-
-<h3>Add movies to your watchlist</h3>
-
-
-
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/4764e93b-76fa-4501-aa45-6be973ea24a5" width="900px" height="400px"/>
-
-<h3>Search for movies/tvshows</h3>
-You can search for movies or tvshows through the search bar.
-
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/a3588fdb-bbd5-4429-bd9b-b915e570c88d" width="900px" height="300px"/>
-<h3>Watch trailers and clips </h3>
-
-<img src="https://github.com/sinAbhishek/Movie/assets/127949220/ce5130b5-79fc-44f3-9752-a30b98eb879a" width="900px" height="300px"/>
-
-
-
 # RunLocally
 
 
